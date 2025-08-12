@@ -13,7 +13,7 @@
     i -> 1 to <num
          j -> i to <num
          j -> 1 to <=i
-         j -> 1 to <=i 
+         j -> 2 to <=i 
     
     i -> 1 to <=num
          j -> 1 to <i
